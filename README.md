@@ -1,6 +1,8 @@
 This was an effort to create a cursed expirience for `blaseball.com` as a submission for `https://cursed.sibr.dev/`
 The intent was to create a web extension that would apply to `blaseball.com` though I ran into some complications.
 
+This will make it so that only a single letter can be viewed at a time
+
 A video deminstrating the functionality can be found `SnackathonCurseball.mp4`
 
 I made this heavily relying on Rust and web assembly because I think they are cool and wanted to have some more experience working with them.

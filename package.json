@@ -1,0 +1,21 @@
+{
+  "author": "Robert Derfler",
+  "name": "curseball",
+  "version": "0.0.2",
+  "repository": "https://github.com/rderfler/Curseball",
+  "scripts": {
+    "dev": "parcel index.html",
+    "start": "parcel index.html",
+    "devextension": "parcel manifest.json --host localhost --target webext-dev",
+    "prod": "parcel build index.html",
+    "build": "parcel build index.html",
+    "extension": "parcel build manifest.json --target webext-prod"
+  },
+  "bin": {
+    "create-rust-parcel": ".bin/create-rust-parcel.js"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-wasm.rs": "^1.2.16"
+  }
+}

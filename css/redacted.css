@@ -1,0 +1,14 @@
+.redact {
+    background: #333333;
+    border-radius: 0.2em;
+    color: transparent;
+    cursor: pointer;
+}
+.redact:target {
+    background: transparent;
+    color: inherit;
+}
+
+.GameWidget{
+	margin-bottom: 10px !important
+}

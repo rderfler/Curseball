@@ -5,6 +5,8 @@ A video deminstrating the functionality can be found `SnackathonCurseball.mp4`
 
 I made this heavily relying on Rust and web assembly because I think they are cool and wanted to have some more experience working with them.
 
+`index.html` is taken from the blaseball site for testing purposes
+
 # Dependencies
 * Rust `https://www.rust-lang.org/tools/install`
 * npm `https://docs.npmjs.com/downloading-and-installing-node-js-and-npm`

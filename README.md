@@ -5,7 +5,7 @@ This will make it so that only a single letter can be viewed at a time
 
 A video deminstrating the functionality can be found `SnackathonCurseball.mp4`
 
-I made this heavily relying on Rust and web assembly because I think they are cool and wanted to have some more experience working with them.
+I made this heavily relying on Rust and web assembly because I think they are cool and wanted to have some more experience working with them, and thought it would be a much more cursed way to create this.
 
 `index.html` is taken from the blaseball site for testing purposes
 
